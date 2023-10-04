@@ -2,3 +2,5 @@ shinaya
 splash
 romeo
 cookie
+chicks
+monty
